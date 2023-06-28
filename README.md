@@ -1,7 +1,6 @@
-### Hi there
+### Hi there 👋
 
+Welcome to my Github profile
 
-My latest blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Hypothesis Testing and p-values](https://duyendo.github.io/2020/10/31/Hypothesis-Testing-and-p-values/)
-<!-- BLOG-POST-LIST:END -->
+🎉 I like to work on fun and helpful project.
+💬 If you have some interesting ideas and want to collaborate on freetime, contact me 😉
